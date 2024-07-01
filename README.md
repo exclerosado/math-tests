@@ -1,4 +1,6 @@
-# Conceito básico do algoritmo RSA
+# Repositório dedicado a testes de matemática
+
+## Conceito básico do algoritmo RSA
 ### Esse código visa demonstrar a complexidade de um problema simples envolvendo números primos 
 
 O código demonstra a dificuldade de descobrirmos quais os dois números primos que geraram o resultado final. 
