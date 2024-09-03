@@ -27,3 +27,14 @@ Para saber mais, acesse o link https://pt.wikipedia.org/wiki/N%C3%BAmero_perfeit
 
 A sequência fibonacci é composta por 2 termos iniciais, 0 e 1. Os próximos termos serão a soma do termo atual e do termo anterior. Mais informações no link https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci.
 O código foi escrito em linguagem C propositalmente pelo fato do processamento se tornar extensivo quando aumentamos o número de entrada.
+
+## `collatz.py`
+### Gerando a sequência de Collatz
+#### Famoso problema 3x + 1
+
+A sequência de Collatz tem como princípio o seguinte:
+- escolha um número natural inteiro;
+- se for par, divida-o por 2;
+- se for ímpar, multiplique por 3 e some 1.
+
+Mais informações no link https://en.wikipedia.org/wiki/Collatz_conjecture.
