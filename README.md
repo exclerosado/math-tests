@@ -37,4 +37,5 @@ A sequência de Collatz tem como princípio o seguinte:
 - se for par, divida-o por 2;
 - se for ímpar, multiplique por 3 e some 1.
 
+Será gerada uma sequência que sempre terminará em 4 → 2 → 1, não importa qual o tamanho do número inicial.  
 Mais informações no link https://en.wikipedia.org/wiki/Collatz_conjecture.
